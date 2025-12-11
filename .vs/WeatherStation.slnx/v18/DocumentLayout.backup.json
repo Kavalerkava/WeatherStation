@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAVLUK\\source\\repos\\WeatherStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8FAFE-E2E0-4537-B4CC-AF351C9C2E16}|Database\\Database.csproj|c:\\users\\pavluk\\source\\repos\\weatherstation\\database\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8FAFE-E2E0-4537-B4CC-AF351C9C2E16}|Database\\Database.csproj|solutionrelative:database\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\PAVLUK\\source\\repos\\WeatherStation\\Database\\Sensor.cs",
+              "RelativeDocumentMoniker": "Database\\Sensor.cs",
+              "ToolTip": "C:\\Users\\PAVLUK\\source\\repos\\WeatherStation\\Database\\Sensor.cs",
+              "RelativeToolTip": "Database\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:03:33.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

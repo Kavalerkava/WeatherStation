@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Database/Database.csproj" Id="e6b8fafe-e2e0-4537-b4cc-af351c9c2e16" />
+  <Project Path="WeatherStation/WeatherStation.csproj" />
+</Solution>
